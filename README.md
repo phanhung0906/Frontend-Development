@@ -690,7 +690,7 @@
         + [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) is the language that Cucumber understands.
             + [Feature Introduction](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)
             + [Given when then](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
-    + [Jasmine](http://pivotal.github.io/jasmine/) - JavaScript BDD testing framework with Rspec-like syntax
+    + [Jasmine](https://jasmine.github.io/) - JavaScript BDD testing framework with Rspec-like syntax
     + [QUnit](http://qunitjs.com/) - JavaScript unit testing framework
     + [JsMockito](http://jsmockito.org/) - JavaScript stub/mock framework heavily inspired by Mockito
     + [PhantomCSS](https://github.com/Huddle/PhantomCSS) - for automating visual regression testing of website styling to support refactoring of CSS
